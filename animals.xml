@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animals>
+  <Cat>
+    <HideFromOtherAnimals>false</HideFromOtherAnimals>
+    <Country>Russia</Country>
+    <WhatAnimal>Carnivores</WhatAnimal>
+  </Cat>
+  <Lion>
+    <HideFromOtherAnimals>false</HideFromOtherAnimals>
+    <Country>Belarus</Country>
+    <WhatAnimal>Carnivores</WhatAnimal>
+  </Lion>
+  <Cow>
+    <HideFromOtherAnimals>true</HideFromOtherAnimals>
+    <Country>England</Country>
+    <WhatAnimal>Herbivores</WhatAnimal>
+  </Cow>
+  <Pig>
+    <HideFromOtherAnimals>true</HideFromOtherAnimals>
+    <Country>Russia</Country>
+    <WhatAnimal>Omnivores</WhatAnimal>
+  </Pig>
+</Animals>
